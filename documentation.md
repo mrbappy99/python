@@ -19,3 +19,8 @@ Quotient = `num1 // num2`
 Modulus = `num1 % num2`
 
 
+## Math functions
+
+1. To find the power of any number- 
+
+`pow(base, exponent)`
