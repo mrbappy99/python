@@ -18,6 +18,11 @@ Quotient = `num1 // num2`
 
 Modulus = `num1 % num2`
 
+To find Square of number 
+`number ** exponent`
+
+
+
 
 ## Math functions
 
