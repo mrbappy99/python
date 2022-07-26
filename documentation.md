@@ -1,5 +1,18 @@
 # Python
 
+## Type conversion
+
+To change string into integer, float(number with decimal) and boolean value
+
+`int()
+ float()
+ bool()
+`
+to see the type of string 
+
+`type()`
+
+
 ## Editing
 
 New line
@@ -26,15 +39,7 @@ To find Square of number
 
 ## Math functions
 
-1. To change string into integer, float(number with decimal) and boolean value
-
-`int()
- float()
- bool()
-`
-to see the type of string 
-
-`type()`
+1. 
 
 2. To find the power of any number- 
 
