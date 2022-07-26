@@ -26,7 +26,14 @@ To find Square of number
 
 ## Math functions
 
-1. To find the power of any number- 
+1. To change string into integer, float(number with decimal) and boolean value
+
+`int()
+ float()
+ bool()
+`
+
+2. To find the power of any number- 
 
 `pow(base, exponent)`
 
