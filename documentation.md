@@ -32,12 +32,15 @@ To find Square of number
  float()
  bool()
 `
+to see the type of string 
+
+`type()`
 
 2. To find the power of any number- 
 
 `pow(base, exponent)`
 
-2. To find square root of any number - 
+3. To find square root of any number - 
 
 `from math import sqrt
  sqrt(number)`
