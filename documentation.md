@@ -16,6 +16,19 @@ course[-1] # returns the first character from the end
 course[-2] # returns the second character from the end
 `
 
+## Formated string
+
+to create a formated string, use f'' 
+
+`
+first = 'M Rahman'
+last = 'Bappy'
+
+full_name = f'{first} {last} is his full name'
+
+print(full_name)
+`
+
 ## Type conversion
 
 To change string into integer, float(number with decimal) and boolean value
