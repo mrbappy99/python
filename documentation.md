@@ -1,5 +1,21 @@
 # Python
 
+## Strings 
+
+We can define strings using 
+single (‘ ‘) or double (“ “) quotes. 
+
+To define a multi-line string, we surround our string with tripe quotes (“””).
+
+We can get individual characters in a string using square brackets []. 
+
+`course = ‘Python for Beginners’ 
+course[0] # returns the first character 
+course[1] # returns the second character 
+course[-1] # returns the first character from the end 
+course[-2] # returns the second character from the end
+`
+
 ## Type conversion
 
 To change string into integer, float(number with decimal) and boolean value
